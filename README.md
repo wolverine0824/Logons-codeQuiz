@@ -1,7 +1,3 @@
-<img width="1440" alt="Screen Shot 2021-09-09 at 7 10 24 PM" src="https://user-images.githubusercontent.com/69323735/132774236-51695a78-fa43-49d6-bf0e-1b18b0509ad3.png">
-<img width="1440" alt="Screen Shot 2021-09-09 at 7 10 05 PM" src="https://user-images.githubusercontent.com/69323735/132774242-b518cfd2-c82b-4e5c-a1d1-723ccad3b8e3.png">
-<img width="1440" alt="Screen Shot 2021-09-09 at 7 10 00 PM" src="https://user-images.githubusercontent.com/69323735/132774250-d9a6be68-2ab4-4a02-8b18-130f047a384b.png">
-<img width="1440" alt="Screen Shot 2021-09-09 at 7 09 42 PM" src="https://user-images.githubusercontent.com/69323735/132774256-69ed8540-618c-4321-a785-cddff4037a3b.png">
 # Logon's Code Quiz
 
 ## Your Task
@@ -87,6 +83,11 @@ You are required to submit BOTH of the following for review:
 * The URL of the functional, deployed application.
 
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
+
+<img width="1440" alt="Screen Shot 2021-09-09 at 7 10 24 PM" src="https://user-images.githubusercontent.com/69323735/132774236-51695a78-fa43-49d6-bf0e-1b18b0509ad3.png">
+<img width="1440" alt="Screen Shot 2021-09-09 at 7 10 05 PM" src="https://user-images.githubusercontent.com/69323735/132774242-b518cfd2-c82b-4e5c-a1d1-723ccad3b8e3.png">
+<img width="1440" alt="Screen Shot 2021-09-09 at 7 10 00 PM" src="https://user-images.githubusercontent.com/69323735/132774250-d9a6be68-2ab4-4a02-8b18-130f047a384b.png">
+<img width="1440" alt="Screen Shot 2021-09-09 at 7 09 42 PM" src="https://user-images.githubusercontent.com/69323735/132774256-69ed8540-618c-4321-a785-cddff4037a3b.png">
 
 ---
 
